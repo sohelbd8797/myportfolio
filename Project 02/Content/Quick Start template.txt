@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<html lang="en-EN">
+
+     <head>
+
+          <title>Starter Template</title>
+
+          <meta charset="UTF-8"
+          <meta name="keyword" content="web design, development, search engine optimisation">
+          <meta name="description" content="This is an web development site">
+          <meta name="viewport" content="width=device-width, initial-scale= 1">
+ 
+          
+          <link href= "favicon.ico" rel="shortcut icon" type="image/x-icon">
+          <link href= "css\font-awesome.css" rel="stylesheet" type="text/css">
+          <link href= "css\bootstrap.min.css" rel="stylesheet" type="text/css">
+          <link href= "css\responsive.css" rel="stylesheet" type="text/css">
+          <link href= "style.css" rel="stylesheet" type="text/css">
+          
+          
+          <link href= "js\bootstrap.min.js" rel="Javascript" type="text/js">
+          <link href= "js\external.js" rel="javascript" type="text/js">
+
+          <style type="text/css"></style>
+          <script type="text/javascript"></script>
+
+     </head>
+
+     <body>
+
+         <header>
+	    <div class="logo"></div>
+            <div class="heading"></div>
+            <div class="banner"></div>
+	    <nav id="menubar">
+	    <ul>
+	    <li><a href="#">page1</a><li>
+	    <li><a href="#">page2</a><li>
+	    <li><a href="#">page3</a><li>
+	    <li><a href="#">page4</a><li>
+	    <li><a href="#">page5</a><li>
+            <ul>
+            </nav>
+        </header>
+
+    <section> 
+    </section> 
+      <aside>
+	 <div class="level">
+	   <h4>Level_01</h4>
+	</div>
+
+	 <div class="sidebar">
+	   <ul>
+	     <li><a href="#">page1</a><li>
+	     <li><a href="#">page2</a><li>
+	     <li><a href="#">page3</a><li>
+	     <li><a href="#">page4</a><li>
+	     <li><a href="#">page5</a><li>
+           <ul>
+	 </div>
+      </aside>
+
+      	 <div class="column">
+	    <a href="#">
+	    <img src="#" alt="men">
+	    <h1>Level_01</h1>
+	    <p>There are some text</p>
+	    </a>
+	 </div>
+
+	 <div class="column">
+	    <a href="#">
+	    <img src="#" alt="men">
+	    <h1>Level_01</h1>
+	    <p>There are some text</p>
+	    </a>
+	 </div>
+
+	 <div class="column">
+	    <a href="#">
+	    <img src="#" alt="men">
+	    <h1>Level_01</h1>
+	    <p>There are some text</p>
+	    </a>
+	 </div>
+
+      <article id="postitem">
+	 <h1>News Title</h1>
+	 <pre>Author: Name | Time: 1 hours ago | Category: politics</pre>
+	 <p>There are some text</p>
+	 <blockquot>There are some quotational text</blockquot>
+	 <a href="#">read more</a>
+	 <div class="pagination">
+	     <a href="#">Previous</a>
+	     <a href="#">Next</a>
+	 </div>
+      </article>
+
+      <footer>
+	 <div class="footernav">
+	     <ul>
+		<li><a href="#">footerpage</a></li>
+		<li><a href="#">footerpage</a></li>
+		<li><a href="#">footerpage</a></li>
+		<li><a href="#">footerpage</a></li>
+		<li><a href="#">footerpage</a></li>
+	      </ul>
+      </footer>
+ 
+   </body>
+
+</html>

@@ -1,0 +1,11 @@
+.d { width: 210px;
+       height: 78px;
+       margin-left: 0px 5px 0px 0px;
+       text-align: justify;
+       border: 1px solid;
+       float:left; }
+   .d img {float:left;
+          width:70px;
+          height:70px;
+          border: 1px solid;
+          clear: bottom;}

@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html lang="en-EN">
+
+     <head>
+
+          <title>Starter Template</title>
+
+          <meta charset="UTF-8">
+          <meta http-equiv="refresh" content="3; url="http://sitename.com/" />
+          <meta name="keyword" content="web design, development, search engine optimisation">
+          <meta name="description" content="This is an web development site">
+          <meta name="viewport" content="width=device-width, initial-scale= 1">
+ 
+          
+          <link href= "favicon.ico" rel="shortcut icon" type="image/x-icon">
+          <link href= "css\font-awesome.css" rel="stylesheet" type="text/css">
+          <link href= "css\bootstrap.min.css" rel="stylesheet" type="text/css">
+          <link href= "css\responsive.css" rel="stylesheet" type="text/css">
+          <link href= "css\normalize.css" rel="stylesheet" type="text/css">
+          <link href= "css\main.css" rel="stylesheet" type="text/css">
+          <link href= "style.css" rel="stylesheet" type="text/css">
+          
+          
+          <script src= "js\bootstrap.min.js" type="text/js"></script>
+          <script src= "js\external.js" type="text/js"></script>
+          <script src= "js\jequery.min.js" type="text/js"></script>
+          <script src= "js\plugin.js" type="text/js"></script>
+          <script src= "js\main.js" type="text/js"></script>
+
+          <style type="text/css"></style>
+          <script type="text/javascript"></script>
+
+     </head>
+
+     <body>
+
+         <header id="mainHeader">
+
+	    <div class="logo"></div>
+            <div class="mainTitle"></div>
+	    <div class="search"></div>
+	    
+         </header>
+
+         <nav id="mainNav">
+	    <ul>
+	    <li><a href="#">page1</a><li>
+	    <li><a href="#">page2</a><li>
+	    <li><a href="#">page3</a><li>
+	    <li><a href="#">page4</a><li>
+	    <li><a href="#">page5</a><li>
+            <ul>
+         </nav>
+
+         <section id="mainContent">
+          <div class="banner"></div>
+          <article id="home"></article> 
+          <aside id="mainSidebar"></aside>
+         </section> 
+      
+         <footer>
+	  <p>This is footer section</p>
+         </footer>
+ 
+    </body>
+
+</html>

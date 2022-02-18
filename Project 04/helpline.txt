@@ -1,0 +1,114 @@
+
+
+<html>
+      <head>
+
+         <title>PSD conversion project</title>
+         <link rel=stylesheet type=text/css href=Help.css>
+     
+     </head>
+
+     <body><div id=main>
+
+<!--------------------( Menubar )------------------------!>
+         <div class=title>
+                <img src="images/img09.jpg">
+                <div class=title1>
+                          <a href=#>Home</a>
+                          <a href=#>Service</a>
+                          <a href=#>About</a>
+                </div>
+         </div>
+<!--------------------( End of Menubar )-------------------!>
+
+
+<!-----------------------( Header )-------------------------!>
+         <div class=heder><img src="images/girl.jpg">
+               <div><p color=red><b>Register now</b></p><br>
+               <form action="opening_account.html">
+              &nbsp;&nbsp;<font color=orange>User name:</font>&nbsp;<input type=text><br>
+              &nbsp;&nbsp;<font color=orange>Passward:</font>&nbsp;&nbsp;<input type=passward><br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=submit value=Sign&nbsp;In>
+              &nbsp;<input type=submit value=Sign&nbsp;Up>
+             </form>
+         </div></div>
+         <div class=slider>
+                    <div class=read1></div>
+                    <div class=read2></div>
+                    <div class=read3></div></div>
+<!-----------------------( End of Header )------------------!>
+
+
+<!-----------------------( Content area )--------------------!>
+   <div class=content>
+            <div id="nav">
+            <ul> <li class=heding><h3>Site Navigation</h3><li>                                       
+                <li><a href="home.html" title="">DONEC ELEIFEND ELIT</a></li><hr>
+                <li><a href="services.html" title="">NEC METUS FRINGILL</a></li><hr>
+                <li><a href="privacy.html" title="">SED PULVINR LOREM</a></li><hr>
+                <li><a href="#" title="">UISUE ELEIFEND GRVIDE</a></li><hr>
+                <li><a href="contact.html" title="">DBIBUS ORNRE,VUGUE</a></li><hr>
+                <li><a href="privacy.html" title="">PULVINR METUS LOREM</a></li><hr>
+                <li><a href="#" title="">NEC METUS ELEIFEND</a></li><hr>
+                <li><a href="contact.html" title="">GRVIDE UISUE FRINGILL</a></li></ul></div>
+
+        <div id="welcome"><p><b><font color=red>WELCOME</font> TO OUR WEBSITE</b><br><p>This is my first psd to html conversion, so if nything wrong plese forgive me.
+        This is my first psd to html conversion, so if nything wrong plese forgive me.
+        This is my first psd to html conversion, so if nything wrong plese forgive me.
+        This is my first psd to html conversion, so if nything wrong plese forgive me.
+        This is my first psd to html conversion, so if nything wrong plese forgive me.</p>
+         <p><b>SERVICES</b><br>
+        <p>This is my first psd to html conversion, so if nything wrong plese forgive me.
+        This is my first psd to html conversion, so if nything wrong plese forgive me.
+        This is my first psd to html conversion, so if nything wrong plese forgive me.</p>
+        <div class="a"><img src=images/img05.jpg>
+                       <p><font color=red>Products001</font></b><br>This is my first psd to html conversion.This is my first psd to html</p></div>
+        <div class="b"><img src=images/img06.jpg>
+                       <p><font color=red>Products002</font></b><br>This is my first psd to html conversion.This is my first psd to html</p></div>
+        <div class="c"><img src=images/img07.jpg>
+                       <p><font color=red>Products003</font></b><br>This is my first psd to html conversion.This is my first psd to html</p></div>
+        <div class="d"><img src=images/img08.jpg>
+                       <p><font color=red>Products004</font></b><br>This is my first psd to html conversion.This is my first psd to html</p></div>
+        </div>
+    <img class=pic src=images/girl01.jpg>
+
+
+   </div>
+         
+<!-----------------------( End of content area )-------------!>
+
+
+<!-----------------------( footer area )--------------------!>
+         <div class=footer><div class=downlink><ul>                                       
+                <li><a href="home.html" title="">Donec eleifend elid metus fringil</a></li>
+                <li><a href="services.html" title="">Nec metus fringlil Pulvinr lorem</a></li>
+                <li><a href="privacy.html" title="">Sed Pulvinr lorem metus lorem</a></li>
+                <li><a href="#" title="">Uisue Elefend grvide metus sed</a></li>
+                <li><a href="contact.html" title="">Dbibus ornue,vugue mwtus bed</a></li>
+                <li><a href="privacy.html" title="">Pulvir metus lorem eleifend led</a></li>
+                <li><a href="#" title="">Nec mwtus lorem eleifend sec</a></li>
+               </ul></div>
+         <div class=downlink><ul>                                       
+                <li><a href="home.html" title="">Donec eleifend elid metus fringil</a></li>
+                <li><a href="services.html" title="">Nec metus fringlil Pulvinr lorem</a></li>
+                <li><a href="privacy.html" title="">Sed Pulvinr lorem metus lorem</a></li>
+                <li><a href="#" title="">Uisue Elefend grvide metus sed</a></li>
+                <li><a href="contact.html" title="">Dbibus ornue,vugue mwtus bed</a></li>
+                <li><a href="privacy.html" title="">Pulvir metus lorem eleifend led</a></li>
+                <li><a href="#" title="">Nec mwtus lorem eleifend sec</a></li>
+               </ul></div>
+         <div class=downlink><ul>                                       
+                <li><a href="home.html" title="">Donec eleifend elid metus fringil</a></li>
+                <li><a href="services.html" title="">Nec metus fringlil Pulvinr lorem</a></li>
+                <li><a href="privacy.html" title="">Sed Pulvinr lorem metus lorem</a></li>
+                <li><a href="#" title="">Uisue Elefend grvide metus sed</a></li>
+                <li><a href="contact.html" title="">Dbibus ornue,vugue mwtus bed</a></li>
+                <li><a href="privacy.html" title="">Pulvir metus lorem eleifend led</a></li>
+                <li><a href="#" title="">Nec mwtus lorem eleifend sec</a></li>
+               </ul></div></div>
+         <div class=footer1> </div>         
+<!-----------------------( End of footer area )-------------!>
+
+     </div></body>
+
+</html>

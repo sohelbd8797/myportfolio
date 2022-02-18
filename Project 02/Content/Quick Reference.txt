@@ -1,0 +1,102 @@
+
+
+ 
+ +=========================================================================================================+
+ |                                         HTML 5 Document Structure                                       |  
+ +================+======================================+=================================================+
+ |   Category     |          < HTML_Tag >                |            Atribute list                        |
+ +----------------+--------------------------------------+-------------------------------------------------+
+ | 1. Meta Data   | meta, head, title, link, style,      | name, content, http-equiv, type, rel, href      |
+ |		  | script			         |				 		   |
+ +----------------+--------------------------------------+-------------------------------------------------+
+ |                |  					 |						   |
+ | 2. Heading     | h1-h6 hgroup   			 |   						   |
+ |		  | 					 | 						   | 
+ +----------------+--------------------------------------+-------------------------------------------------+
+ |                | 					 |						   |
+ | 3. Sectioning  | div, header, nav, aside, article,	 | width, height, display, class, id		   |
+ |		  | section, footer		         |						   |
+ +----------------+--------------------------------------+-------------------------------------------------+
+ |		  | p, pre, a, br, wbr, abbr, hr,        |						   |
+ | 4. Phrasing    | superscript, subscript, ul, ol, li,  | text-align, href, src, alt, title, font-family  |
+ |                | table, th, tr, td, dl, dt, dd,       |						   |
+ +----------------+--------------------------------------+-------------------------------------------------+ 
+ |		  |					 |						   |
+ | 5. Embeded ele | audio, video, source, object, img,   | control autoplay loop, src			   |
+ |		  | iframe				 |						   |
+ +----------------+--------------------------------------+-------------------------------------------------+
+ |                | 					 |						   |
+ | 6. Interactive | input, form, formgroup, option,	 | type, name, value, placeholder, action          |
+ |		  | details, summery, legend, fieldset   |						   |
+ |		  |					 |						   |  
+ +================+======================================+=================================================+
+
+ +=========================================================================================================+
+ | 					      CSS all selectors						   |
+ +=========================================================================================================+
+ |  *, ID, Class, group, Atribute, a:link, a:visited, a:hover, a:active, | 
+ |  (div p), (div,p), (div>p), (div+p), (p~ul) [atribute], [atribute=value], [atribute~=value],                     						                			   |
+ |  [atribute]=value], [atribute^=value]                   						                			   |
+ |                     						                			   |
+ |                     						                			   |
+ |                     						                			   |
+ +=========================================================================================================+
+
+ 
+ +=========================================================================================================+
+ |                                         CSS3 page properties                                            |
+ +================+======================================+=================================================+
+ |   Modules      |        			  Properties                     			   |
+ +----------------+--------------------------------------+-------------------------------------------------+
+ |                |  					 						   |
+ | 1. Box Model   | max/min-width, max/min-height, margin, padding, border, position, display, float, 	   |
+ |		  | overflow, visibility, z-index, clear, box-shadow					   |
+ |                |     						                		   |					 	 
+ +----------------+----------------------------------------------------------------------------------------+
+ |                |     						                		   |
+ |                | color, opacity, list-style, list-style-type/position/image				   |
+ | 2. Formatting  | background-color, background-image, background-repeat, background-attachment,	   |  
+ |		  | background-position, marquee-direction/speed/style, marquee-play-count		   |
+ |                |     						                		   |
+ +----------------+----------------------------------------------------------------------------------------+
+ |		  | 		   			 						   |
+ | 3. Images	  | image-oriantation/resoulation/rendering, object-fit/position			   |
+ |                | superscript, strikethrow, br, wbr,	 						   |
+ |                |     						                		   |
+ +----------------+----------------------------------------------------------------------------------------+ 
+ |                |     						                		   |
+ |		  | text-align, text-indent, text-decoration, text-decoration-color/line/style		   |
+ | 4. Typography  | text-transform, text-shadow, word-wrap, line-height, line-break, letter-spacing,  	   |
+ |		  | font, font-family, font-size, font-style, font-variant, font-weight, @font-face,	   |	
+ |                |     						                		   |
+ +----------------+----------------------------------------------------------------------------------------+
+ |                |  											   |
+ | 5. Transform	  | transform, transform-style/origin, backface-visibility, perspective, perspective-origin|
+ |		  | 											   |
+ +----------------+----------------------------------------------------------------------------------------+
+ |                |  											   |
+ | 6. Transition  | transition, transition-property/duration/delay, transition-timing-function,		   |
+ |		  |  											   |
+ +----------------+----------------------------------------------------------------------------------------+ 
+ |                | 					 						   |
+ | 7. Animations  | @keyframes, animation, animation-delay/direction/duration/name, 			   |
+ |		  | animation-(iteratiion-count/timing-function/play-state/fill-mode)			   |
+ |                |     						                		   |
+ +----------------+----------------------------------------------------------------------------------------+
+ |                |     						                		   |
+ |                | break-before/after/inside, column-width/count/span/fill/gap/rule,			   |
+ | 8. Multiple Col| column-rule-color/style/width, widows						   |
+ |		  |					 						   | 
+ +----------------+----------------------------------------------------------------------------------------+
+ |                |     						                		   |
+ |                | content, cursor, icon, box-sizing, nav-index/left/right/up/down,  text-overflow	   |
+ | 9. UI	  | resize, outline-style/color/offset,							   |
+ |		  |					 						   | 
+ +=========================================================================================================+
+    
+ 
+    
+    
+    
+    
+    

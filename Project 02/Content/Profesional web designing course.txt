@@ -1,0 +1,22 @@
+BASIC:
+- Concept of Web Design
+- Web Design Tools and Environment
+-Concept and use of HTML tags, attributes, HTML5 Basic
+- Concept of CSS (Cascading Style Sheets)
+- CSS Selectors, Properties and Values including all necessary Basic Styling
+- CSS3 Basic
+- Concept of Photoshop and its Basic use for Web Design
+- Work with PSD file and Basic conversion of PSD to HTML
+- Basic JavaScript
+- Basic jQuery
+
+
+ADVANCE:
+- Advanced Web Design Environment
+- Advanced CSS3 and Special Selectors
+- CSS3 Animations with keyframes
+- Clear Concept on Responsive Layout
+- Use of jQuery and other necessary JavaScript plugins
+- Advance PSD to HTML5 conversion
+- Pixel Perfect conversion technique
+- Cross Browser Compatibility, W3C Validation check

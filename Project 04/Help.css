@@ -1,0 +1,251 @@
+#main { width: 680px;
+        margin: 0 auto;
+        background: url(images/bkgrd.jpg);
+        background-repeat: repeat-x; }
+
+/*===============( Titlebar)==============*/
+.title { width: 650px;
+	height: 26px;
+        margin: 0 auto;	
+	background: url(images/Title.jpg); }
+
+       .title img { width: 200px;
+	height: 26px;
+        float: left; }
+
+.title1 { width: 300px;
+	height: 26px;
+        margin: 0 5px 0 0;	
+	background: black;
+        float: right;
+        text-align: right; }
+
+.title1 a{ color: white;
+           text-decoration: none;
+           padding: 5px; }
+
+.title1 a:hover{ color: yellow;
+           text-decoration: none; }
+/*===============(End of titlebar)==============*/
+
+
+/*===============( Header)==============*/
+.heder { width: 650px;
+	height: 210px;
+        margin: 0 auto;
+        background: white; }
+
+       .heder img{ width: 260px;
+	height: 209px;
+        margin: 0;
+        float: left; }
+
+.heder div{ width: 200px;
+	height: 100px;
+        margin: 5px 5px 5px 5px;
+        background: white;
+        border: px solid;
+        float: right;
+        background-image: url(images/login02.jpg); }
+
+.heder div p{ color: orange; }
+
+
+.slider { width: 650px;
+	height: 91px;
+        margin: 0 auto;
+        border: px solid;
+        background: white; }
+
+       .read1 { width: 210px;
+	height: 87px;
+        margin: 2px 5px 2px 2px;
+        float: left;
+        border: px solid;
+        background: url(images/img00.jpg); }
+
+       .read2 { width: 210px;
+	height: 87px;
+        margin: 2px 5px 2px 0px;
+        float: left;
+        border: px solid;
+        background: url(images/img01.jpg); }
+
+
+       .read3 { width: 210px;
+	height: 87px;
+        margin: 2px 2px 2px 0px;
+        float: left;
+        border: px solid;
+        background: url(images/img02.jpg); }
+/*===============( End of header)==============*/
+
+
+/*===============( Content area )==============*/
+.content { width: 650px;
+	height: 510px;
+        margin: 0 auto;
+        border: px solid;
+        background: white; }
+
+#nav{ width:205px;
+      height: 350;
+      padding:0px 0 0 2px;
+      float: left;
+      border: px solid;
+       }
+
+#nav ul{ list-style:none;
+         margin: 0 auto;
+         display:block;
+         padding:0px; }
+
+.heding{ color: white;
+         background: url(images/futer.jpg);
+         display:block;
+         width:205;
+         height:38px;
+         margin-top:2px;
+         padding:5px 3px 5px 5px;
+         line-height:30px;
+         text-align: center; }
+         
+
+#nav ul li{ list-style:none;
+           display:block;
+           width:205;
+           height:20px;
+           padding:0px;
+           line-height:15px;
+           text-align: ;
+           background-color: ; }
+
+#nav hr{ width: 195;
+         color: green;
+         align: left; }
+
+#nav ul li a{ height:16px;
+          display:block;
+          font-size:15px;
+          width:205px;
+          text-decoration:none;
+          padding:0 0 0 0px;
+          margin:0px 0 0px 0;
+          color:red;
+          background-color:;
+          background-position:0px 0px; }
+
+#nav ul li a:hover{ height:20px;
+         display:block;
+         width:205px;
+        text-decoration:none;
+        color: #d4f0ba;
+        padding:0 0 0 0px;
+        margin:0px 0 0px 0;
+        background: ; }
+
+#nav ul li a.current{ height:20px;
+       display:block;
+       width:205px;
+      text-decoration:none;
+      padding:0px;
+      color: #d4f0ba;
+      padding:0 0 0 0px;
+      margin:0px 0 0px 0; 
+      background:green;}
+
+#welcome { width: 432px;
+       height: auto;
+       margin: 0px 3px 0px 5px;
+       text-align: justify;
+       border: px solid;
+       float:right; }
+
+
+.a { width: 205px;
+       height: 80px;
+       margin:0px 5px 5px 5px;
+       text-align: justify;
+       border: px solid;
+       float:left; }
+   .a img {float:left;
+          width:70px;
+          height:76px;
+          border: px solid;}
+.a p{ margin-top: 1px; }
+
+.b { width: 205px;
+       height: 80px;
+       margin: 0px 5px 5px 0px;
+       text-align: justify;
+       border: px solid;
+       float:left; }
+   .b img {float:left;
+          width:70px;
+          height:76px;
+          border: px solid;}
+.b p{ margin-top: 1px; }
+
+.c { width: 205px;
+       height: 80px;
+       margin: 0px 5px 0px 5px;
+       text-align: justify;
+       border: px solid;
+       float:left; }
+   .c img {float:left;
+          width:70px;
+          height:76px;
+          border: px solid;}
+.c p{ margin-top: 1px; }
+
+.d { width: 205px;
+       height: 80px;
+       margin: 0px 5px 0px 0px;
+       text-align: justify;
+       border: px solid;
+       float:left; }
+   .d img {float:left;
+          width:70px;
+          height:76px;
+          border: px solid;
+          clear: bottom;}
+
+.d p{ margin-top: 1px; }
+
+.pic{ width: 155px;
+      height: 150px;
+      margin: 5px 5px 5px 5px;
+      border: px solid;
+      float:left; }
+/*===============( End of content area )==============*/
+
+
+/*===============( Footer area )==============*/
+.footer{ width: 650px;
+       height: 155px;
+       margin: 0 auto;
+       background: url(images/futer.jpg); }
+
+.downlink{ width: 200px;
+       height: px;
+       margin: 5px 5px 5px 5px;
+       float: right;
+       border: px solid;
+ }
+
+.downlink ul{ list-style:none;
+         margin: 0px 0px 0px 0px;
+         padding:0px; }
+
+.downlink ul a{ list-style:none;
+         margin: 5px 0px 5px 5px;
+         padding:0px;
+        text-decoration: none;
+        color: white; }
+
+.footer1{ width: 650px;
+       height: 30px;
+       margin: 0 auto;
+       background: black;}
+/*===============( End of footer area )==============*/
+

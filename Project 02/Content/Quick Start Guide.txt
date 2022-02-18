@@ -1,0 +1,44 @@
+
+ 1. Collect Information
+       a. Company goals
+       b. Types of website
+       c. Expectation from website
+       d. Functionalities of website
+       e. Calculate number of pages/layout
+       f. Cost of time & money
+       g. Project pricing
+
+ 2. layout setting in draft paper
+       a. fixed layout
+       b. fluid grid layout
+       c. responsive layout
+       d. multicolumn layout
+
+ 3. Typography setting  //typetester.org
+	a. font-family
+	b. font-style
+	c. font-variant
+	d. font-weight
+	e. font-size
+	f. font-color
+
+ 4. Color setting //kuler.adobe.com
+
+ 6. Working with psd file
+       a. gridline setup em, pt, ins, % calculation
+       b. adobe photoshop if large image content
+       c. adobe illustrator for icon creation
+       d. adobe fireworks for live view support
+       e. Create asset folder from psd
+       f. Idea from psd 
+
+ 9. Quick start pack (QSP)
+ 10. Markup with zencoding
+ 11. Extract selectors from markup
+ 12. css coding with inspect element
+ 13. Convert with responsive design 
+ 14. Testing & Debugging
+
+ 15. Domain registration
+ 16. Website hosting
+ 17. Search Engine Optimisation
